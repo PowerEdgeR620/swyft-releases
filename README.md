@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon.png" alt="Swyft Logo" width="128">
+<img src="assets/icon.png" alt="Swyft Logo" width="80">
 
 # Swyft
 
